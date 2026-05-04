@@ -5,4 +5,4 @@ This is Student A's Project.
 >>>>>>>
 [hash]
 
-
+THIS IS A COLLABORATIVE PROJECT
